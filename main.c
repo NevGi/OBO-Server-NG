@@ -12,7 +12,7 @@
 
 int main()
 {
-
+	printf("你真坏");
 
 	return 0;
 }
