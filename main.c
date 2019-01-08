@@ -14,5 +14,7 @@ int main()
 {
 	printf("你真坏");
 
+	printf("%d",12);
+
 	return 0;
 }
